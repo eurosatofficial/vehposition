@@ -45,7 +45,7 @@ hinten rechts: 0.800, -2.150, -0.050
 
 ## 🧠 Hinweis
 
-Dieses Tool ist für Entwickler gedacht, die ihr eigenes Blinkersystem mit **realistischen und exakten Positionen pro Fahrzeugmodell** umsetzen möchten.  
+Dieses Tool ist für Entwickler gedacht, die zum Beispiel ein Blinkerscript mit **realistischen und exakten Positionen pro Fahrzeugmodell** umsetzen möchten.  
 Für eine bessere Übersicht empfiehlt sich, die Einträge später in eine Lua-Tabelle zu exportieren.
 
 ## 📣 Credits
