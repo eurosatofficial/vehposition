@@ -1,4 +1,4 @@
-# Blinker-Offset-Tool (MTA:SA)
+# Vehicle-Position-Tool (MTA:SA)
 
 Dieses Tool dient dazu, **exakte Fahrzeug-Positionen** für jedes Fahrzeugmodell in MTA:SA manuell zu bestimmen und automatisch zu speichern.
 
